@@ -1,0 +1,7 @@
+song_id,song_name,artist,genre,danceability,energy,tempo
+1,Blinding Lights,The Weeknd,Pop,0.8,0.9,171
+2,Shape of You,Ed Sheeran,Pop,0.9,0.8,96
+3,Rockstar,DaBaby,Hip-Hop,0.7,0.85,160
+4,Someone Like You,Adele,Ballad,0.4,0.3,135
+5,Bad Guy,Billie Eilish,Pop,0.75,0.7,135
+6,HUMBLE.,Kendrick Lamar,Hip-Hop,0.65,0.8,150
